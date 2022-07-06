@@ -1,7 +1,7 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: Rare Share: |cff69ccf0Zereth Mortis
 ## Notes: The Zereth Mortis extension for the Rare Share addon
-## Author: Chalsean (Kel'Thuzad)
+## Author: Chalsean (Proudmoore)
 ## Version: 0.2.0
 ## DefaultState: enabled
 ## Dependencies: RareShare
